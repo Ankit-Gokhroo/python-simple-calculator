@@ -7,6 +7,7 @@ gui.geometry('400x400')
 l1=tk.Label(gui,text='ans')
 l1.grid(column=0,row=0)
 
+#define a function
 def abc():
     a=e1.get()
     b=e2.get()
@@ -25,6 +26,7 @@ b4.grid(column=8,row=10)
 
 e1=tk.Entry(gui)
 e1.grid(column=2,row=2)
+#
 
 e2=tk.Entry(gui)
 e2.grid(column=3,row=3)
