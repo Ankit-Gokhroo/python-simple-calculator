@@ -1,4 +1,4 @@
-# python-simple-calculator
+# python-simple-calculator using tkinter
 simple calculator
 import tkinter as tkn
 gui=tk.Tk()
